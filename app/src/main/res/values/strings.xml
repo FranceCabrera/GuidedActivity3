@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fourthGuidedActivity</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_android_development_guided_exercise">Welcome to Android Development Guided Exercise</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
